@@ -1,8 +1,10 @@
 <html>
 <head>
+<link rel="stylesheet" href="./universal_style.scss"/>
 </head>
 <body>
 <form>
 <form>
+<script src="./universal_script.js"></script>
 </body>
 </html>
