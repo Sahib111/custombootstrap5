@@ -1,6 +1,6 @@
 <html>
 <head>
-<link rel="stylesheet" href="./universal_style.scss"/>
+<link rel="stylesheet" href="./universal_style.css"/>
 </head>
 <body>
 <form>
