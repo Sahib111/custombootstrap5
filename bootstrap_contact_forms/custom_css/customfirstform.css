@@ -4,7 +4,7 @@ margin-right: -50%;
 transform: translate(-50%, -50%);
 margin-left:15px;
 margin-right:15px;
-display:flex;
+display:inline;
 position:absolute;
 padding-top:45px;
 padding-bottom:30px;
