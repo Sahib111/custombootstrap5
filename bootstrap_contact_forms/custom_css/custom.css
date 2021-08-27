@@ -10,6 +10,6 @@ padding-right:65px;
 border:1.5px solid #000000;
 border-radius:35%;
 box-shadow: 5px 10px #888888;
-width:365px;
-height:499px;
+max-width:365px;
+max-height:499px;
 }
