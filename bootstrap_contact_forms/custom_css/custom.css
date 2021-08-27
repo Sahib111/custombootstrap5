@@ -24,9 +24,9 @@ padding-bottom:15px;
 font-size:10.5px;
 }
 
-.btn {
+.btn .btn-primary {
 bottom:0;
-padding-bottom:0;
+padding-bottom:0!important;
 width:auto;
 height:auto;
 }
