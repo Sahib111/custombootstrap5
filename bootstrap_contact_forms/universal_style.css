@@ -1,4 +1,4 @@
-@import url("https://sahib111.github.io/custombootstrap5/bootstrap_contact_forms/css/bootstrap.css");
-@import url("https://sahib111.github.io/custombootstrap5/bootstrap_contact_forms/css/bootstrap_grid.css");
-@import url("https://sahib111.github.io/custombootstrap5/bootstrap_contact_forms/css/bootstrap_reboot.css");
-@import url("https://sahib111.github.io/custombootstrap5/bootstrap_contact_forms/css/bootstrap_utilities.css");
+@import "./css/bootstrap";
+@import "./css/bootstrap_grid";
+@import "./css/bootstrap_reboot";
+@import "./css/bootstrap_utilities";
