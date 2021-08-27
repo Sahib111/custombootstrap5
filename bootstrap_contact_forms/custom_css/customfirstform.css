@@ -19,11 +19,6 @@ max-width:361px;
 max-height:721px;
 }
 
-.form-group {
-display:block;
-position:absolute;
-}
-
 .form-control,
 .form-group {
 text-align:center;
