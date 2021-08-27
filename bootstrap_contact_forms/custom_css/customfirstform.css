@@ -3,6 +3,9 @@ margin:10px;
 }
 
 form {
+margin-left:auto;
+margin-right:auto;
+verticle-align:center;
 display:block;
 position:absolute;
 padding-top:45px;
@@ -17,6 +20,7 @@ max-height:721px;
 }
 
 .form-group {
+position:absolute;
 top:50%;
 left:50%;
 -ms-transform: translate(-50%, -50%);
