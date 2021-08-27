@@ -16,6 +16,7 @@ max-height:500px;
 }
 
 .form-group {
+position:absolute;
 top:50%;
 left:50%;
 -ms-transform: translate(-50%, -50%);
@@ -23,5 +24,5 @@ transform: translate(-50%, -50%);
 }
 
 div small {
-font-size:8.5px;
+font-size:4.5px;
 }
