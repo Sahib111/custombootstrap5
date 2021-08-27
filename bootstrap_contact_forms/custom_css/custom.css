@@ -11,14 +11,22 @@ padding-right:50px;
 border:1.5px solid #000000;
 border-radius:35%;
 box-shadow: 5px 10px #888888;
-width:370px;
-height:500px;
+max-width:370px;
+max-height:500px;
 }
 
 .form-group {
 text-align:center;
+padding-bottom:15px;
 }
 
 .form-text {
-font-size:4.5px;
+font-size:10.5px;
+}
+
+.btn {
+bottom:0;
+padding-bottom:0;
+width:auto;
+height:auto;
 }
