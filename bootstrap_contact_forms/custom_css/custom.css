@@ -1,4 +1,8 @@
+#form {
+display:block;
+border:5px solid #000000;
+}
 
 .form-group {
-margin:15vw;
+margin:4vw;
 }
