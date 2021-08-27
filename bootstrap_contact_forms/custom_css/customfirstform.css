@@ -20,11 +20,7 @@ max-height:721px;
 }
 
 .form-group {
-position:static;
-top:50%;
-left:50%;
--ms-transform: translate(-50%, -50%);
-transform: translate(-50%, -50%);
+position:absolute;
 }
 
 .form-control,
