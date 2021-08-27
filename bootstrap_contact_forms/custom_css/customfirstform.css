@@ -2,7 +2,7 @@ form {
 margin-left:15px;
 margin-right:15px;
 display:block;
-justify-content:center;
+justify-content:center!important;
 position:absolute;
 padding-top:45px;
 padding-bottom:30px;
