@@ -20,6 +20,7 @@ max-height:721px;
 }
 
 .form-group {
+display:block;
 position:absolute;
 }
 
