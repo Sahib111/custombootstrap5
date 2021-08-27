@@ -16,13 +16,13 @@ max-height:500px;
 }
 
 .form-group {
-position:absolute;
+position:relative;
 top:50%;
 left:50%;
 -ms-transform: translate(-50%, -50%);
 transform: translate(-50%, -50%);
 }
 
-div small {
+div #small {
 font-size:4.5px;
 }
