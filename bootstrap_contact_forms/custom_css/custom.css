@@ -1,8 +1,10 @@
 body, html {
-margin:6vw;
+margin:4vw;
 }
 
 form {
-padding:50px;
-border:10px solid #000000;
+padding:25px;
+border:1.5px solid #000000;
+border-radius:35%;
+box-shadow: 5px 10px #888888;
 }
