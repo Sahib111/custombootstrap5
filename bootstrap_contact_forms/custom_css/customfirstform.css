@@ -1,7 +1,4 @@
 form {
-bottom:50%;
-right:50%;
-transform: translate(50%, 50%);
 margin-left:15px;
 margin-right:15px;
 display:block;
@@ -15,6 +12,7 @@ border-radius:40%;
 box-shadow: 5px 10px #888888;
 max-width:361px;
 max-height:721px;
+justify-content:center;
 }
 
 
