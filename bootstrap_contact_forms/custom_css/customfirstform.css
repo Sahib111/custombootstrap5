@@ -2,7 +2,6 @@ form {
 margin-left:15px;
 margin-right:15px;
 display:flex;
-justify-content:center!important;
 position:absolute;
 padding-top:45px;
 padding-bottom:30px;
@@ -13,6 +12,10 @@ border-radius:40%;
 box-shadow: 5px 10px #888888;
 max-width:361px;
 max-height:721px;
+}
+
+.form-group {
+justify-content:center!important;
 }
 
 .form-control,
