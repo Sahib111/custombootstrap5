@@ -4,8 +4,7 @@ margin:10px;
 
 form {
 display:block;
-position:fixed;
-top:50%;
+position:absolute;
 left:50%;
 -ms-transform: translate(-50%, -50%);
 transform: translate(-50%, -50%);
