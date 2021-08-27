@@ -3,13 +3,17 @@ margin:4vw;
 }
 
 form {
-padding-top:45px;
-padding-bottom:45px;
-padding-left:65px;
-padding-right:65px;
+top:50%;
+left:50%;
+-ms-transform: translate(-50%, -50%);
+transform: translate(-50%, -50%);
+padding-top:35px;
+padding-bottom:35px;
+padding-left:50px;
+padding-right:50px;
 border:1.5px solid #000000;
 border-radius:35%;
 box-shadow: 5px 10px #888888;
-max-width:365px;
-max-height:499px;
+max-width:370px;
+max-height:500px;
 }
