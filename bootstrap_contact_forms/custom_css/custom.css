@@ -3,8 +3,8 @@ margin:4vw;
 }
 
 form {
-padding-top:35px;
-padding-bottom:35px;
+padding-top:45px;
+padding-bottom:30px;
 padding-left:65px;
 padding-right:65px;
 border:1.5px solid #000000;
@@ -20,14 +20,8 @@ text-align:center;
 
 .form-group {
 text-align:center;
-padding-bottom:15px;
 }
 
 .form-text {
 font-size:10.5px;
-}
-
-.btn .btn-primary {
-margin-bottom:0!important;
-width:150%;
 }
