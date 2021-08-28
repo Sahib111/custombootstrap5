@@ -22,12 +22,10 @@ text-align:center;
 .form-control_firstform,
 .form-group_firstform {
 text-align:center!important;
-font-weight:300;
-padding:10px;
 }
 
 .form-text_firstform{
-font-size:6.5px!important;
+font-size:3.5px!important;
 }
 
 .btn_firstform {
