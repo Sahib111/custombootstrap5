@@ -1,14 +1,10 @@
 .form_justify_firstform {
-margin:auto;
 display:block;
 }
 
-.form_firstform {
-top:50%;
-left:50%;
+#form_firstform {
 -ms-transform: translate(-50%, -50%);
 transform: translate(-50%, -50%);
-text-align:center;
 padding-top:65px;
 padding-bottom:30px;
 padding-left:75px;
