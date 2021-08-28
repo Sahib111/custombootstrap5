@@ -33,6 +33,8 @@ font-size:6px!important;
 
 .btn_firstform {
 border-radius:35px;
+width:30px;
+height:30px;
 }
 
 .h1_firstform {
@@ -40,4 +42,5 @@ font-family:'Azeret Mono', monospace;
 font-size:35px;
 background-color:#0d6efd;
 color:#fff;
+border-radius:35px;
 }
