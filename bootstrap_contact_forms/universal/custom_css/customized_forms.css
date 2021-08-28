@@ -14,7 +14,7 @@ border:1.5px solid #000000;
 border-radius:40%;
 box-shadow: 5px 10px #888888;
 max-width:340px!important;
-max-width:711px!important;
+max-height:711px!important;
 }
 
 .form-control_firstform,
