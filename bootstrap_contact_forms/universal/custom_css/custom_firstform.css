@@ -4,6 +4,7 @@ margin:5vw;
 }
 
 #form_firstform {
+margin:auto;
 display:block;
 max-width:340px!important;
 max-height:450px!important;
@@ -22,6 +23,7 @@ text-align:center;
 .form-control_firstform,
 .form-group_firstform {
 text-align:center!important;
+padding:15px;
 }
 
 .form-text_firstform{
