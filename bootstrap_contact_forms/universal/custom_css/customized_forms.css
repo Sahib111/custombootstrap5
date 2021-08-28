@@ -6,6 +6,7 @@ vertical-align:center;
 }
 
 .form_firstform {
+text-align:center;
 padding-top:65px;
 padding-bottom:30px;
 padding-left:75px;
@@ -15,8 +16,6 @@ border-radius:40%;
 box-shadow: 5px 10px #888888;
 max-width:340px!important;
 max-height:711px!important;
-justify-content:center!important;
-vertical-align:center!important;
 }
 
 .form-control_firstform,
