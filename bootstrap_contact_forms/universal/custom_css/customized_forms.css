@@ -1,3 +1,7 @@
+body {
+max-width:100%;
+}
+
 .form_justify_firstform {
 display:block;
 margin:auto;
