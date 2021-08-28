@@ -3,7 +3,7 @@ max-width:100%;
 margin:5vw;
 }
 
-#form_firstform {
+#form_secondform {
 margin:auto;
 margin-top:5vw;
 display:block;
@@ -21,16 +21,16 @@ height:100%;
 text-align:center;
 }
 
-.form-control_firstform,
+.form-control_secondform,
 .form-group_firstform {
 text-align:center!important;
 padding:15px;
 }
 
-.form-text_firstform{
+.form-text_secondform{
 font-size:3.5px!important;
 }
 
-.btn_firstform {
+.btn_secondform {
 border-radius:35px;
 }
