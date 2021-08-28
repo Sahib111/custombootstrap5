@@ -23,3 +23,7 @@ text-align:center;
 .form-text {
 font-size:10.5px;
 }
+
+.btn {
+border-radius:35px;
+}
