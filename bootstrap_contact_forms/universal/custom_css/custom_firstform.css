@@ -22,10 +22,11 @@ height:100%;
 .form-control_firstform,
 .form-group_firstform {
 text-align:center!important;
+font-weight:300;
 }
 
 .form-text_firstform{
-font-size:10.5px!important;
+font-size:6.5px!important;
 }
 
 .btn_firstform {
