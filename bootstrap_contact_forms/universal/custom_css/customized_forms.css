@@ -4,6 +4,10 @@ display:block;
 }
 
 .form_firstform {
+top:50%;
+left:50%;
+-ms-transform: translate(-50%, -50%);
+transform: translate(-50%, -50%);
 text-align:center;
 padding-top:65px;
 padding-bottom:30px;
@@ -13,7 +17,7 @@ border:1.5px solid #000000;
 border-radius:40%;
 box-shadow: 5px 10px #888888;
 max-width:340px!important;
-max-height:711px!important;
+max-height:710px!important;
 }
 
 .form-control_firstform,
