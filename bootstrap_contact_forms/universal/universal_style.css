@@ -2,7 +2,7 @@
 @import './css/bootstrap_grid.css';
 @import './css/bootstrap_reboot.css';
 @import './css/bootstrap_utilities.css';
-@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:wght@700')
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:wght@700&display=swap');
 @import './custom_css/custom_firstform.css';
 @import './custom_css/custom_secondform.css';
 
