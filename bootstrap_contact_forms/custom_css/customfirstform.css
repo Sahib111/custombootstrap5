@@ -1,7 +1,4 @@
 form {
-float:none;
-margin-left:auto;
-margin-right:auto;
 display:block;
 position:absolute;
 padding-top:45px;
@@ -13,6 +10,8 @@ border-radius:40%;
 box-shadow: 5px 10px #888888;
 max-width:361px;
 max-height:721px;
+left:0;
+right:0;
 }
 
 
