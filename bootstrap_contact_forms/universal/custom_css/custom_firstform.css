@@ -21,8 +21,8 @@ height:100%;
 text-align:center;
 }
 
-.form-control_firstform,
-.form-group_firstform {
+.form_control_firstform,
+.form_group_firstform {
 text-align:center!important;
 padding:15px;
 }
