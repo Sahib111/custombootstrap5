@@ -1,8 +1,6 @@
 body {
-margin-left:5vw!important;
-margin-right:5vw!important;
-background: url("https://ik.imagekit.io/sahibkapoor111/New_vSRziApbH?updatedAt=1629830861394") no-repeat;
-background-size:cover;
+left:50%;
+right:50%;
 }
 
 form {
