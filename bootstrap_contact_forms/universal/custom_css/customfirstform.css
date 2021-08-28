@@ -1,1 +1,31 @@
-vbvhb
+.form-justify {
+margin:auto;
+display:block;
+justify-content:center!important;
+vertical-align:center!important;
+max-width:340px!important;
+max-width:711px!important;
+}
+
+form {
+padding-top:45px;
+padding-bottom:30px;
+padding-left:65px;
+padding-right:65px;
+border:1.5px solid #000000;
+border-radius:40%;
+box-shadow: 5px 10px #888888;
+}
+
+.form-control,
+.form-group {
+text-align:center;
+}
+
+.form-text {
+font-size:10.5px;
+}
+
+.btn {
+border-radius:35px;
+}
