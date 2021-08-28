@@ -9,7 +9,7 @@ margin:auto;
 max-width:340px!important;
 max-height:450px!important;
 padding-top:65px;
-padding-bottom:30px;
+padding-bottom:20px;
 padding-left:55px;
 padding-right:55px;
 border:1.5px solid #000000;
@@ -21,11 +21,11 @@ height:100%;
 
 .form-control_firstform,
 .form-group_firstform {
-text-align:center;
+text-align:center!important;
 }
 
 .form-text_firstform{
-font-size:10.5px;
+font-size:10.5px!important;
 }
 
 .btn_firstform {
