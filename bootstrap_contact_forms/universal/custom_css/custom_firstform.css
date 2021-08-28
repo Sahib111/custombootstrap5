@@ -38,5 +38,6 @@ border-radius:35px;
 .h1_firstform {
 font-family:'Azeret Mono', monospace;
 font-size:35px;
-color:#0d6efd;
+background-color:#0d6efd;
+color:#fff;
 }
