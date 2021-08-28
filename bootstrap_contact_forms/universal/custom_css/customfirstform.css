@@ -1,4 +1,4 @@
-.form-justify {
+.form_justify_firstform {
 margin:auto;
 display:block;
 justify-content:center!important;
@@ -7,7 +7,7 @@ max-width:340px!important;
 max-width:711px!important;
 }
 
-form {
+form_firstform {
 padding-top:45px;
 padding-bottom:30px;
 padding-left:65px;
@@ -17,15 +17,15 @@ border-radius:40%;
 box-shadow: 5px 10px #888888;
 }
 
-.form-control,
+.form-control_firstform,
 .form-group {
 text-align:center;
 }
 
-.form-text {
+.form-text_firstform{
 font-size:10.5px;
 }
 
-.btn {
+.btn_firstform {
 border-radius:35px;
 }
