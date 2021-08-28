@@ -21,13 +21,13 @@ height:100%;
 text-align:center;
 }
 
-.form-control_secondform,
-.form-group_secondform {
+.form_control_secondform,
+.form_group_secondform {
 text-align:center!important;
 padding:15px;
 }
 
-.form-text_secondform{
+.form_text_secondform{
 font-size:3.5px!important;
 }
 
