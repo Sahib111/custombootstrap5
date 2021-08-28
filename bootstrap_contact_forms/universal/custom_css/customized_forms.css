@@ -1,10 +1,11 @@
 .form_justify_firstform {
 display:block;
+margin:auto;
 }
 
 #form_firstform {
 max-width:340px!important;
-max-height:550px!important;
+max-height:450px!important;
 padding-top:65px;
 padding-bottom:30px;
 padding-left:75px;
