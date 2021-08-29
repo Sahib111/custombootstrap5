@@ -53,3 +53,13 @@ text-align:center;
 .form-check-input {
 float:none;
 }
+
+.fullscreenvideo_secondform{
+position:fixed;
+z-index:-1000000;
+top:0;
+left:0;
+min-width: 100%;
+min-height: 100%;
+filter:brightness(60%);
+}
