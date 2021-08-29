@@ -14,6 +14,7 @@ box-shadow: 5px 10px #888888;
 width:100%;
 height:100%;
 text-align:center;
+z-index:1;
 }
 
 .form_control_secondform,
