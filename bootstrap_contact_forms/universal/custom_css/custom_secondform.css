@@ -1,9 +1,4 @@
-body {
-max-width:100%;
-margin:5vw;
-}
-
-#form_firstform {
+#form_secondform {
 margin:auto;
 margin-top:5vw;
 display:block;
@@ -21,17 +16,17 @@ height:100%;
 text-align:center;
 }
 
-.form_control_firstform,
-.form_group_firstform {
+.form_control_secondform,
+.form_group_secondform {
 text-align:center!important;
 padding:10px;
 }
 
-.form_text_firstform{
+.form_text_secondform{
 font-size:10px!important;
 }
 
-.btn_firstform {
+.btn_secondform {
 font-size:20px;
 padding:2px!important;
 border-radius:35px;
@@ -39,7 +34,7 @@ width:130px;
 height:60px;
 }
 
-.h1_firstform {
+.h1_secondform {
 font-family: 'Work Sans', sans-serif;
 font-size:40px;
 text-align:center;
