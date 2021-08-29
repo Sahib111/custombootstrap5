@@ -10,6 +10,10 @@
 </head>
 <style>
 
+.overlay_secondform {
+filter:brightness(20%);
+}
+
 .fullscreen-bg__video {
 position:fixed;
 z-index:-1000000;
@@ -20,9 +24,11 @@ min-height: 100%;
 }
 </style>
 <body>
+<div class="overlay_secondform">
     <video loop muted autoplay class="fullscreen-bg__video">
         <source src="./media/videos/roller.mp4" type="video/mp4">
 </video>
+</div>
 <center><h1>SIMPLE STATIC HTML & CSS SIGN IN PANEL</h1></center>
 <center><h6><b>*Without any background database*</b></h6></center>
 <br/>
