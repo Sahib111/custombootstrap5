@@ -23,6 +23,10 @@ height:100%;
 text-align:center;
 }
 
+.form_group_firstform {
+float:none!important;
+}
+
 .form_control_firstform,
 .form_group_firstform {
 text-align:center!important;
