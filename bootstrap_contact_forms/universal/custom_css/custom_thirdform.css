@@ -49,3 +49,7 @@ font-family: 'Work Sans', sans-serif;
 font-size:40px;
 text-align:center;
 }
+
+.form-check-input {
+float:none;
+}
