@@ -14,7 +14,7 @@ body {
 color:#fff;
 }
 
-.fullscreen-bg__video {
+.fullscreenvideo_secondform{
 position:fixed;
 z-index:-1000000;
 top:0;
@@ -24,17 +24,9 @@ min-height: 100%;
 filter:brightness(65%);
 }
 
-.h1_inside_secondform {
-color:#000;
-}
-
-label {
-color:#000;
-}
-
 </style>
 <body>
-    <video loop muted autoplay class="fullscreen-bg__video">
+    <video loop muted autoplay class="fullscreenvideo_secondform">
         <source src="./media/videos/roller.mp4" type="video/mp4">
 </video>
 <center><h1>SIMPLE STATIC HTML & CSS SIGN IN PANEL</h1></center>
@@ -45,7 +37,7 @@ color:#000;
 <center><h6><b>*Best for sidebars*<b></h6></center>
 <br/>
 <form id="form_secondform">
-<h1 class="h1_inside_secondform">SIGN IN</h1>
+<h1 class="h1_secondform">SIGN IN</h1>
 <br/>
 <div class="form-group form_group_secondform">
     <label for="exampleInputEmail1">Email address</label>
@@ -67,7 +59,7 @@ color:#000;
   <center><button type="submit" class="btn btn-primary btn_secondform">Sign In <i class="bi bi-play-circle"></i></button></center>
 <form>
 <script>
-var video = document.getElementById(".fullscreen-bg__video");}
+var video = document.getElementById(".fullscreenvideo_secondform");}
 </script>
 <script src="./universal/js/bootstrap.js"></script>
 <script src="./universal/js/bootstrap_bundle.js"></script>
