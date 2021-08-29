@@ -47,5 +47,5 @@ text-align:center;
 }
 
 .form_check_input_firstform {
-float:none;
+float:none!important;
 }
