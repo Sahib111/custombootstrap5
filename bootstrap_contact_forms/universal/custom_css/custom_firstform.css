@@ -32,6 +32,7 @@ font-size:10px!important;
 }
 
 .btn_firstform {
+padding:2px!important;
 border-radius:35px;
 width:130px;
 height:60px;
@@ -45,5 +46,5 @@ text-align:center;
 }
 
 .form_check_input_firstform {
-padding-right:-15px!important;
+padding-left:35px!important;
 }
